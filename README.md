@@ -1,0 +1,1 @@
+# Gothic.Church.Game.Assets
