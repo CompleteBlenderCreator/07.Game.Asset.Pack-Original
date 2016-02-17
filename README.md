@@ -88,6 +88,32 @@ Ben Tristem & Michael Bridges
 * Organise it as you go, not afterwards!
 * Use description names, cube, cube.001 etc is not helpful to anyone!
 
+## Level Of Detail (LOD)
+* Focus on representations of the right size and shape, but JUST Block work models.
+* This allows quick iteration of your models.
+* Remember higher detail ofter requires more processing time too!
+
+### LOD Numbers and Letters
+* LOD 0 often refers to the highest detail model sometimes called the base model.
+* To avoid confusion, we are going to use Letters!
+* A represents the lowest polygon model, with B,C,D etc increasing in detail.
+
+### Watch Your Time / LOD
+* LOD and time taken at usually directly proportional to one another.
+* When fleshing out a scene and prototyping you probably want quiet a few assets. 
+* You can test models and your scene quickly.
+
+### LOD vs. Time Taken Example
+#### “LOD”
+* A - B - C - D
+#### Polygons*
+* 200 - 2,000 - 20,000 - 200,000
+#### Time Taken**
+*30mins - 2 hours - 1 day - 1 Week+
+
+*Every polygon counts!*
+
+*Time includes other artwork too*
 
 
 ——
