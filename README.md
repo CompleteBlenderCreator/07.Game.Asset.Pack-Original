@@ -115,6 +115,32 @@ Ben Tristem & Michael Bridges
 
 *Time includes other artwork too*
 
+## Setting Up Our Repo & Committing
+* Setup Up Our Repository.
+* Register SourceTree.
+* Learn how to exclude data from our repository.
+* Stage our files.
+* Make our first commit.
+
+### How Many Repositories?
+* You could use a repo per model that you create, this would give you the best level of control.
+* You could track your whole project in a repo.
+* It will depend on the complexity of your project and how much control you NEED.
+
+### Excluding Data
+* Allow faster commits at a smaller size and keeps the database simple and manageable.
+* Avoid storing derived / generated data in the repository.
+* Example here: will be our reference material.
+
+### Committing
+* You’ll need to save all the documents that constitute that commit first.
+* Just like saving your working folder and zipping it up at that moment in time.
+
+## Repetitive Tasks In Blender
+* Learn how to manage repetitive tasks.
+* Understand good uses for appending an Blend file into your scene.
+
+##
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
