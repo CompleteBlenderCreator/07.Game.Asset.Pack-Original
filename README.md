@@ -140,7 +140,10 @@ Ben Tristem & Michael Bridges
 * Learn how to manage repetitive tasks.
 * Understand good uses for appending an Blend file into your scene.
 
-##
+## Using Our Building Blocks
+* Set your commit message before working
+* Start building your building.
+* Notice a few issues and work out a way around them.
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
