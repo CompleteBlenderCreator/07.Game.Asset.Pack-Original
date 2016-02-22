@@ -169,6 +169,18 @@ Ben Tristem & Michael Bridges
 * Understand that there is a datablock hierarchy.
 * Keep an eye out for when you might loose data.
 
+## Linking Blend Files: Making a Proxy
+* Learn more about linking datablocks.
+* Understand what is happening when you link.
+* Realising when you need to use a Proxy.
+
+### Make Proxy
+* Creates a New object, that is a parent of the linked data.
+* Allows transformation of an object.
+* Can now Scale, Move, Rotate etc.
+* Otherwise exactly the same as the linked file.
+* The object datablock is linked to original and any dependant datablocks.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
