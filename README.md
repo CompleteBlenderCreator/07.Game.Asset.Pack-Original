@@ -145,6 +145,30 @@ Ben Tristem & Michael Bridges
 * Start building your building.
 * Notice a few issues and work out a way around them.
 
+## Introduction To Datablocks
+* Learn about Datablocks.
+* Understand that knowing about them is about to become much more important.
+* We have come into contact with data blocks lots but let now go and explore them directly.
+
+### Datablock’s Characteristics 
+* Must have unique names per type. 
+* Can link to each other.
+* Can link across blend files.
+* Unused Datablocks are eventually removed.
+* This is Where we have used Fake Users in the past to preserve that particular datablock.
+
+### Sharing Datablocks Example
+* The same texture on many materials.
+* The same material on many meshes.
+* The same particle system and so on.
+* We will often share and then make the data block unique.
+
+## Linking To An External Datablock
+* Learn more about linking to another blend file.
+* Link an object datablock.
+* Understand that there is a datablock hierarchy.
+* Keep an eye out for when you might loose data.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
