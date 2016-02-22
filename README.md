@@ -181,6 +181,40 @@ Ben Tristem & Michael Bridges
 * Otherwise exactly the same as the linked file.
 * The object datablock is linked to original and any dependant datablocks.
 
+## Linking Blend Files: Making Local
+* Learn why you want to make a linked datablock local.
+* Understand we are starting to sever links by doing this.
+* Learn about the various stages of making it local.
+* Decide when would be a good time to localise a datablock.
+
+### Advantages And Disadvantages
+* Advantage: You will have more local control.
+* External files moved, project can stay together.
+* Disadvantage: Potentially more work involved.
+* Any edits you make on the original affect all linked data blocks but not the ones made local.
+
+### When Do you Localise?
+* When the link is not required.
+* When you want to make the asset unique in this particular file.
+* When you want to make changes irrelevant to other potential projects.
+
+### Make Local: Option 1
+* Selected Objects: Clones the object Datablock to the new blend file.
+* All other datablocks remain linked to the original file.
+* This allows changing of anything in the object datablock.
+
+### Make Local: Option 2
+* Selected Objects and Data: Clones the object & data Datablock to the new blend file.
+* This allows editing of the mesh data, breaking that link and making it a local file. 
+* The materials & other datablocks remain linked to the original object.
+
+### Make Local: Option 3
+* Selected Objects, Data and Materials: Clones the object, data and materials Datablock.
+* This allows editing of the object data & materials datablocks. 
+* Breaks those links, making them local to this file.
+
+### Make Local: Option 4
+* All: As it sounds, this is pretty much the same as appending the object into the scene. It is now entirely local with no links to the original file.
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
