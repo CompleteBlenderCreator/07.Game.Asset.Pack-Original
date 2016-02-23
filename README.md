@@ -215,6 +215,17 @@ Ben Tristem & Michael Bridges
 
 ### Make Local: Option 4
 * All: As it sounds, this is pretty much the same as appending the object into the scene. It is now entirely local with no links to the original file.
+
+## Walking And Flying Around The Model
+* See how our scene looks and feels walking around it. Using the Fly / Walk Mode.
+* Show you how to see the scene in Unity.
+* Understand I am using Unity to keep the iterations quick and simple at this early stage.
+
+###Unity Is Optional
+* Anything external to Blender, you can watch to see how it works and is coming across.
+* Better understanding of external programs.
+* Join in, if you have Unity installed and are interested in learning more about this prototyping method.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
