@@ -226,6 +226,29 @@ Ben Tristem & Michael Bridges
 * Better understanding of external programs.
 * Join in, if you have Unity installed and are interested in learning more about this prototyping method.
 
+## Better Camera Control
+* Use a different way of moving the camera.
+* See this gives you better control over what the camera is pointing at.
+* Combine with fly mode for good control.
+* Learn how to track a target.
+
+## What Can You Export?
+* Understand what will export
+* Realise some elements of your models will not export or will once, or not properly.
+* Depends on the target package.
+
+### What Appears on Import
+* Mesh data including UV Maps. 
+* Armatures and animation data will appear too if supported in the target package.
+* Textures may appear or simple the base diffuse colour.
+
+### Reconstruction
+* Textures often have to be reapplied.
+* Shaders work differently in other packages.
+* Materials would have to be remade.
+* Particle systems are local to Blender.
+* Test
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
