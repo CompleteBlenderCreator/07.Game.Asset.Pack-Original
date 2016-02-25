@@ -291,6 +291,12 @@ Ben Tristem & Michael Bridges
 * Use those 2 curves to create geometry, one controlling the profile, the other a path.
 * See this is great for more accurate path following.
 
+## Profile Modelling Using Mesh Objects
+* Use the Array modifier to repeat a mesh object the length of a curve.
+* Deform the array using the same curve data.
+* End up with some pretty awesome results!
+
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
