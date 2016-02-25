@@ -285,6 +285,12 @@ Ben Tristem & Michael Bridges
 * We’re going to be using the bevel tool for construction and defining sharp edges.
 * A subsurface modifier for making the surface.
 
+## Profile Modelling Using Curves
+* Create some alternative detail.
+* Convert Mesh objects into a Curve objects.
+* Use those 2 curves to create geometry, one controlling the profile, the other a path.
+* See this is great for more accurate path following.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
