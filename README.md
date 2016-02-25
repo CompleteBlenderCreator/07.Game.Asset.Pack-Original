@@ -269,6 +269,22 @@ Ben Tristem & Michael Bridges
 * Make links to the new object, replacing the old.
 * Delete / Archive Old Blend file.
 
+## Profile Modelling By Extrusion
+* Understand what a “profile modelling” is.
+* Potentially speed up modelling by mirroring.
+* Use a series of methods to produce a profile that we can use in our scene.
+* Future: Use the same profile in different ways
+
+### Profile Modelling
+* A profile is the outline you get when you view something from a particular angle.
+* Imagine slicing through your model.
+* Realise we have used them in the past: Lamp Base was produces with curves and the Pin was geometry based.
+
+### Methods Used
+* We’re going to bump up our extrude speed
+* We’re going to be using the bevel tool for construction and defining sharp edges.
+* A subsurface modifier for making the surface.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
