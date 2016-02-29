@@ -296,33 +296,47 @@ Ben Tristem & Michael Bridges
 * Deform the array using the same curve data.
 * End up with some pretty awesome results!
 
-Light Portals
-Learn how to use light portals.
-Understand the limitations of their use.
-See that they can dramatically increase quality given a fixed number of samples.
-See they’re especially useful for indoor environments. lit by environmental lighting.
+## Light Portals
+* Learn how to use light portals.
+* Understand the limitations of their use.
+* See that they can dramatically increase quality given a fixed number of samples.
+* See they’re especially useful for indoor environments. lit by environmental lighting.
 
-How Cycles Lighting Works
-Light rays are fired out from the camera until they hit a light source.
-With a Lamp Blender knows where the light source is so ONLY fires rays that will eventually hit the light source.
+### How Cycles Lighting Works
+* Light rays are fired out from the camera until they hit a light source.
+* With a Lamp Blender knows where the light source is so ONLY fires rays that will eventually hit the light source.
 
-Emissive Materials
-With an emissive material Blender doesn’t know where the light source is.
-When the camera fires those rays, some of them will never reach a light source, this introduces more noise.
+### Emissive Materials
+* With an emissive material Blender doesn’t know where the light source is.
+* When the camera fires those rays, some of them will never reach a light source, this introduces more noise.
 
-Environmental Lighting
-In an Interior with only windows letting light in. The rays bounce around a lot and only a few reach the light source. HDR/Environment lighting.
-This introduces a lot of noise in the final image.
+### Environmental Lighting
+* In an Interior with only windows letting light in. The rays bounce around a lot and only a few reach the light source. HDR/Environment lighting.
+* This introduces a lot of noise in the final image.
 
-How Prtals Help
-Portals help by telling Blender where to aim those rays.
-This produces much less noise in the final image.
+### How Prtals Help
+* Portals help by telling Blender where to aim those rays.
+* This produces much less noise in the final image.
 
-Limitations
-Portals are a cycles lighting feature.
-They increase light calculation time, however produce much much less noisy environments.
-Portals only work with Environmental light. Using them otherwise can reduce image quality.
-Have little impact if you put something in the way!
+### Limitations
+* Portals are a cycles lighting feature.
+* They increase light calculation time, however produce much much less noisy environments.
+* Portals only work with Environmental light. Using them otherwise can reduce image quality.
+* Have little impact if you put something in the way!
+
+## Using Source Control: Resetting
+* Go over how to extract a previous version of your files.
+* Become aware that Blender files that are made up of linked files need to be accessed and restored  a different way.
+
+## Introduction To UV Unwrapping
+* No longer ask what does UV stand for?!
+* Overview the mapping in upcoming lectures
+* Understand that we will be creating these maps from scratch, and then using them again to speed up further workflow.
+* X,Y and Z are used for the Co-ordinates.
+* UV are like the ‘X’ and ‘Y’ co-ordinates of an image.
+* UV mapping is the process of projecting a 2D image to a 3D model's surface.
+
+
 
 
 ——
