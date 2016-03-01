@@ -351,6 +351,10 @@ Ben Tristem & Michael Bridges
 * Essential when using textures within Blender.
 * Necessary if you want control over how something looks.
 
+## How Is It Coming Together
+* Check that things are looking right in your main scene.
+* Check externally to Blender that the model is working correctly.
+
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
