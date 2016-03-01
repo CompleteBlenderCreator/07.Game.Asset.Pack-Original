@@ -336,7 +336,20 @@ Ben Tristem & Michael Bridges
 * UV are like the ‘X’ and ‘Y’ co-ordinates of an image.
 * UV mapping is the process of projecting a 2D image to a 3D model's surface.
 
+## Smart UV Project
+* Understand more about unwrapping.
+* Be able to unwrap more complex models
+* Realise this is a great starting point for a lot of meshes.
+* See it gives a basic unwrap that we can work with.
 
+### Why Unwrap?
+* A UV map, is a projection of a 3D mesh to 2D.
+* Whilst unwrapping is necessary to project an image
+* We can let blender ‘guess’ how to unwrap.
+* Unwrapping gives you control over how your model is mapped in 2D space.
+* Essential when using assets outside Blender.
+* Essential when using textures within Blender.
+* Necessary if you want control over how something looks.
 
 
 ——
