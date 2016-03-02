@@ -355,6 +355,9 @@ Ben Tristem & Michael Bridges
 * Check that things are looking right in your main scene.
 * Check externally to Blender that the model is working correctly.
 
+## Adding More Detail
+* Do some organisation to our outliner before things get out of hand!
+* Get an “LOD_B” Mesh Object Ready to be Linked into our main scene.
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
