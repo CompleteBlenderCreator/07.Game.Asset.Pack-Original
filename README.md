@@ -365,8 +365,14 @@ Ben Tristem & Michael Bridges
 * Get help with problems you may have run into when making your building.
 
 ## UV Manipulation
-Realise sometimes Smart UV project is 99% of the way there but something is not quiet right.
-Use UV/Image Editor to change individual parts on your mapping.
+* Realise sometimes Smart UV project is 99% of the way there but something is not quiet right.
+* Use UV/Image Editor to change individual parts on your mapping.
+
+## Complex Shapes & UV Mapping
+* Have a quick tour around my Church Vault.
+* See the challenges that we can have with more complex Models.
+* Troubleshoot some common unwrapping issues.
+* Work out ways to make an unwrap easier and quicker.
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
