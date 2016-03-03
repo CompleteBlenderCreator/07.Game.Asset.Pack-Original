@@ -359,6 +359,11 @@ Ben Tristem & Michael Bridges
 * Do some organisation to our outliner before things get out of hand!
 * Get an “LOD_B” Mesh Object Ready to be Linked into our main scene.
 
+## Problem Solving
+*  Realise starting again is sometimes the best option.
+* See that even well prepared scenes can be broken by subtle changes.
+* Get help with problems you may have run into when making your building.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
