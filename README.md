@@ -364,6 +364,10 @@ Ben Tristem & Michael Bridges
 * See that even well prepared scenes can be broken by subtle changes.
 * Get help with problems you may have run into when making your building.
 
+## UV Manipulation
+Realise sometimes Smart UV project is 99% of the way there but something is not quiet right.
+Use UV/Image Editor to change individual parts on your mapping.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
