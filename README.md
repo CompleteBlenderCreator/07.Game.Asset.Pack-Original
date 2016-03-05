@@ -374,6 +374,22 @@ Ben Tristem & Michael Bridges
 * Troubleshoot some common unwrapping issues.
 * Work out ways to make an unwrap easier and quicker.
 
+## Introduction To Marking Seams
+* Realise that UV unwraps will have seams in them.
+* Learn how to mark seams where you want them.
+* Understand that this gives us the most control over our models unwrap.
+
+### What Is A Seam?
+* It is a “cut” it your model, telling Blender how to unwrap your model.
+* It allows you to separate parts of your meshes.
+* Texture those parts individually.
+
+### Tips For Marking Seams
+* Seams can easily cause distortion and misalignment of textures.
+* Seams often occur on hard edges.
+* They are made where you are least likely to see them.
+* Understand that this gives us the most control over our model.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
