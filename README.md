@@ -390,6 +390,11 @@ Ben Tristem & Michael Bridges
 * They are made where you are least likely to see them.
 * Understand that this gives us the most control over our model.
 
+## Painting In The Image Editor
+* Create your own Image using Blender.
+* Become more familiar with the image editor.
+* Realise Blender’s limitations when it comes to image editing.
+* Understand you may have to use external packages for better control.
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
