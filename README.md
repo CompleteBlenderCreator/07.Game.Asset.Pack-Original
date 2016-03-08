@@ -411,6 +411,16 @@ Ben Tristem & Michael Bridges
 * We are going to avoid painting shadows too.
 * If done, this is called ‘baking’ into the image.
 
+## Using Images For Control
+* Learn how to use images to control your materials.
+* Understand why these control images are black and white.
+* Create a simple stage for our building.
+
+### Why Black and White?
+* These Greyscale images define “values” on a per pixel basis.
+* Black represents a value of 0 and white a value of 1.
+* You map them to your model like you would any other image.
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
