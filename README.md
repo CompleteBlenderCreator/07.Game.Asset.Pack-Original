@@ -421,6 +421,17 @@ Ben Tristem & Michael Bridges
 * Black represents a value of 0 and white a value of 1.
 * You map them to your model like you would any other image.
 
+## Illusion of Detail- Using Bump Maps
+* Use a texture to control how light interacts with a surface.
+* See how to use a texture as a bump map in Blender Render.
+* Use Generated textures rather than hand made.
+
+### Bump Maps
+* Normal and Height/Displacement maps are both types of bump maps.
+* We’re going to use a displacement map.
+* They tell a shader HOW to interact with light.
+* This gives the illusion of detail on a surface.
+* Can increase render speeds vs geometry.
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
