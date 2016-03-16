@@ -432,6 +432,19 @@ Ben Tristem & Michael Bridges
 * They tell a shader HOW to interact with light.
 * This gives the illusion of detail on a surface.
 * Can increase render speeds vs geometry.
+
+## Using Displacement Maps
+* Create real detail using a texture.
+* Use a displacement map to alter geometry.
+* Understand that you need geometry first to modify.
+* Use the displacement influence in Blender Render.
+* Then use the displacement modifier in a similar manner.
+
+### An Important Reality
+* They are not suited to things like generating a final brick wall. V High Poly count required.
+* They're very useful for applying detail e.g. scales on a lizard/fish or dragon.
+* Great for generating geometry and then optimising 
+* For larger items, like terrain.
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
