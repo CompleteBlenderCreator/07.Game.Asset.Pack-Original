@@ -445,6 +445,13 @@ Ben Tristem & Michael Bridges
 * They're very useful for applying detail e.g. scales on a lizard/fish or dragon.
 * Great for generating geometry and then optimising 
 * For larger items, like terrain.
+
+## Normal Maps 
+
+* Understand they are a type of bump map.
+* Gain a greater understanding of how normals work.
+* They contain direction information not height information.
+* There are 3 Main Types.
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
