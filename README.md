@@ -452,6 +452,13 @@ Ben Tristem & Michael Bridges
 * Gain a greater understanding of how normals work.
 * They contain direction information not height information.
 * There are 3 Main Types.
+
+## Baking A Normal Map In Blender
+* Create a normal map.
+* Understand when to create a normal map.
+* Use a process called baking.
+* See the baking is the fundamental process for creating other map types too in Blender.
+* Understand about cages and why they are used.
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
