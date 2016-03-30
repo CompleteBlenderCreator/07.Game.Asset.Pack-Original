@@ -459,6 +459,17 @@ Ben Tristem & Michael Bridges
 * Use a process called baking.
 * See the baking is the fundamental process for creating other map types too in Blender.
 * Understand about cages and why they are used.
+
+
+## Applying A Normal Map In Blender
+
+## Texture Resolution
+* Understand that resolution will control the level of detail at a particular distance.
+* Realise when a texture is too large or too small.
+* Learn about the power of two (POT) and why and when it is important.
+
+
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
 
