@@ -474,8 +474,12 @@ Ben Tristem & Michael Bridges
 * Learn to control how sharp edges.
 * Understand that this is best applied to a base mesh that is close to the ‘final’ low-poly version. 
 
+## Baking Using The Multires Modifier 
+* Learn how bake detail from the higher multires to a lower one.
+* Very similar to before, but this time only one model.
+
 
 ——
-Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial)...
+Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
 ---
