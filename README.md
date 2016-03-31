@@ -468,6 +468,11 @@ Ben Tristem & Michael Bridges
 * Realise when a texture is too large or too small.
 * Learn about the power of two (POT) and why and when it is important.
 
+## The Multi-Resolution Modifier
+* Learn how to use the multi resolution modifier.
+* See it is similar to the subsurf. modifier and great for multiple resolutions of a single model.
+* Learn to control how sharp edges.
+* Understand that this is best applied to a base mesh that is close to the ‘final’ low-poly version. 
 
 
 ——
