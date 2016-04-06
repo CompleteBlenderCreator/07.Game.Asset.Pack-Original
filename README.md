@@ -480,6 +480,8 @@ Ben Tristem & Michael Bridges
 
 ## Copying Mesh Properties
 
+## Optimising A UV Map
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
