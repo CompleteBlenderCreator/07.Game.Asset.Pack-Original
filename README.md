@@ -2,9 +2,9 @@
 
 ****
 
-Part of the Complete Blender Creator course on Udemy, see [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) for a special GitHub offer. The full course is part of [this](https://www.kickstarter.com/projects/bentristem/how-to-create-3d-assets-using-blender-online-cours) Kickstarter campaign which was 1000% funded.
+Part of the Complete Blender Creator course on Udemy, see [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount) for a special GitHub offer. The full course is part of [this](https://www.kickstarter.com/projects/bentristem/how-to-create-3d-assets-using-blender-online-cours) Kickstarter campaign which was 1000% funded.
 
-Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubSpecial) to find out more about the course, and how we build these assets step-by-step.
+Click [here](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount) to find out more about the course, and how we build these assets step-by-step.
 
 These are just the files from the course, not the actual tutorial videos. At the time of writing this course has several hours of high-quality videos.
 
@@ -478,6 +478,7 @@ Ben Tristem & Michael Bridges
 * Learn how bake detail from the higher multires to a lower one.
 * Very similar to before, but this time only one model.
 
+## Copying Mesh Properties
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
