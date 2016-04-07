@@ -482,6 +482,8 @@ Ben Tristem & Michael Bridges
 
 ## Optimising A UV Map
 
+## Texture Painting In The ViewPort
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
