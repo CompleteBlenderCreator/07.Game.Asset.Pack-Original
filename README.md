@@ -484,6 +484,8 @@ Ben Tristem & Michael Bridges
 
 ## Texture Painting In The ViewPort
 
+## Realistic Lighting Or Fake It?
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
