@@ -486,6 +486,8 @@ Ben Tristem & Michael Bridges
 
 ## Realistic Lighting Or Fake It?
 
+## Creating a New Scene In Blender
+
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
 
