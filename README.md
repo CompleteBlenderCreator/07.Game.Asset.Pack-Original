@@ -14,9 +14,6 @@ Enjoy yourselves.
 
 Ben Tristem & Michael Bridges
 
-*Below is a rough projection of the topics in this section and is a copy from previous Gothic Church Section*
-*This will change as this section is fleshed out*
-
 ## Section Introduction
 
 * You are going to make several models. 
@@ -487,6 +484,8 @@ Ben Tristem & Michael Bridges
 ## Realistic Lighting Or Fake It?
 
 ## Creating a New Scene In Blender
+
+## End of Section Wrap Up
 
 ——
 Videos in this section of the [full Udemy course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount)...
