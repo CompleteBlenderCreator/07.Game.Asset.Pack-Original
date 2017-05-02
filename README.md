@@ -613,6 +613,3 @@ Time includes other artwork too
 
 
 ### Section 7 Wrap Up ###
-
----
-Find out more about our [Complete Blender Creator Course](https://www.udemy.com/blendertutorial/?couponCode=GitHubDiscount).
