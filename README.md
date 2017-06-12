@@ -543,7 +543,7 @@ Time includes other artwork too
 
 
 
-### 42_GAP_CBC Texture Resolution
+### 42_GAP_CBC Texture Resolution (Fixed 12/06/2017)
 
 + Understand that resolution will control the level of detail at a particular distance.
 + Realise when a texture is too large or too small.
