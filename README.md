@@ -1,6 +1,6 @@
 ### Section 7 Introduction ###
 
-+ You are going to make several models. 
++ You are going to make several models.
 + We’ll be making both high poly and low poly versions of these assets.
 + We will emphasise how critical naming is when working with a larger project like this.
 + You will be able to create your own mapping, with these we can make the illusion of detail.
@@ -12,10 +12,10 @@
 + Create assets to be exported straight into an external program, like a game engine.
 + Creating our own textures, and other maps from high detail models and apply them to a low poly version.
 + Focused on modelling the interior of the Gothic Church.
-+ You can use this technique within Blender itself too for optimisation. 
++ You can use this technique within Blender itself too for optimisation.
 + I am going to be testing my model externally as I go so you can appreciate the impact externally.
 + We’ll be looking at Level Of Detail, in detail.
-+ I will be keeping my scene simple, primarily for teaching purposes! 
++ I will be keeping my scene simple, primarily for teaching purposes!
 + I encourage you to add more detail, experiment and have fun. Wouldn’t the scene look much more interesting with a chess set in it…
 
 ### Planning Your Project ###
@@ -32,7 +32,7 @@
 + Commit = save a local snapshot
 + Reset = roll-back to a previous state
 + Branch, Push and Large File Support later.
-  
+
 **Popular Version Control Systems**
 
 + Git
@@ -41,7 +41,7 @@
 + Subversion / TortoiseSVN
 + Alienbrain (for art but of order $10,000)
 + [Comparison of Version Control Software - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Comparison_of_version_control_software)
-  
+
 **About SourceTree**  
 
 + Free software by Atlassian
@@ -51,7 +51,7 @@
 
 ### File Structure & Naming ###
 
-+ Understand that there is NO one way of setting up your filing system. 
++ Understand that there is NO one way of setting up your filing system.
 + Have a personal style of filing, if you don’t like mine, use yours.
 + Talk with your ‘team’ you will form guidelines from your own needs.
 
@@ -78,7 +78,7 @@
 + This allows quick iteration of your models.
 + Remember higher detail often requires more processing time too!
 
-**LOD Numbers and Letters** 
+**LOD Numbers and Letters**
 
 + LOD 0 often refers to the highest detail model sometimes called the base model.
 + To avoid confusion, we are going to use Letters!
@@ -87,10 +87,10 @@
 **Watch Your Time / LOD**
 
 + LOD and time taken at usually directly proportional to one another.
-+ When fleshing out a scene and prototyping you probably want quiet a few assets. 
++ When fleshing out a scene and prototyping you probably want quiet a few assets.
 + You can test models and your scene quickly.
 
-**LOD vs. Time Taken Example** 
+**LOD vs. Time Taken Example**
 
 **“LOD”**
 
@@ -104,11 +104,11 @@ A - B - C - D
 
 30mins - 2 hours - 1 day - 1 Week+
 
-\*Every polygon counts! 
+\*Every polygon counts!
 
 Time includes other artwork too
 
-### Building Blocks ###
+### 9_GA_CBC Building Blocks
 
 **Simple Shapes**  
 
@@ -143,7 +143,7 @@ Time includes other artwork too
 + You could track your whole project in a repo.
 + It will depend on the complexity of your project and how much control you NEED.
 
-**Excluding Data** 
+**Excluding Data**
 
 + Allow faster commits at a smaller size and keeps the database simple and manageable.
 + Avoid storing derived / generated data in the repository.
@@ -173,7 +173,7 @@ Time includes other artwork too
 
 **Datablock’s Characteristics**
 
-+ Must have unique names per type. 
++ Must have unique names per type.
 + Can link to each other.
 + Can link across blend files.
 + Unused Datablocks are eventually removed.
@@ -236,13 +236,13 @@ Time includes other artwork too
 **Make Local: Option 2**
 
 + Selected Objects and Data: Clones the object & data Datablock to the new blend file.
-+ This allows editing of the mesh data, breaking that link and making it a local file. 
++ This allows editing of the mesh data, breaking that link and making it a local file.
 + The materials & other datablocks remain linked to the original object.
 
 **Make Local: Option 3**
 
 + Selected Objects, Data and Materials: Clones the object, data and materials Datablock.
-+ This allows editing of the object data & materials datablocks. 
++ This allows editing of the object data & materials datablocks.
 + Breaks those links, making them local to this file.
 
 **Make Local: Option 4**
@@ -276,7 +276,7 @@ Time includes other artwork too
 
 **What Appears on Import**
 
-+ Mesh data including UV Maps. 
++ Mesh data including UV Maps.
 + Armatures and animation data will appear too if supported in the target package.
 + Textures may appear or simple the base diffuse colour.
 
@@ -467,7 +467,7 @@ Time includes other artwork too
 
 **The Diffuse Map**
 
-+ Create a hand painted texture in the UV image editor and apply it to your models! 
++ Create a hand painted texture in the UV image editor and apply it to your models!
 + Be creating the diffuse map from scratch
 + Explain what the diffuse map does.
 
@@ -516,12 +516,12 @@ Time includes other artwork too
 + Understand that you need geometry first to modify.
 + Use the displacement influence in Blender Render.
 + Then use the displacement modifier in a similar manner.
-  
+
 **An Important Reality**
 
 + They are not suited to things like generating a final brick wall. V High Poly count required.
 + They're very useful for applying detail e.g. scales on a lizard/fish or dragon.
-+ Great for generating geometry and then optimising 
++ Great for generating geometry and then optimising
 + For larger items, like terrain.
 
 ### Normal Maps ###
@@ -548,26 +548,26 @@ Time includes other artwork too
 + Understand that resolution will control the level of detail at a particular distance.
 + Realise when a texture is too large or too small.
 + Learn about the power of two (POT) and why and when it is important.
-  
+
 **Power Of Two**
 
 + Computers work with 1s and 0s, or Binary.
 + A lot of external programs need POT textures.
 + They aren’t necessary in Blender but are a good standard to adhere too, especially when working with external programs.
 + Don’t have to be ‘square’, providing side length is a POT.
-  
+
 **Which Numbers are Power of 2?**  
 
 + Mathematically they’ll be 2 to the power of n or 2^n. eg. 2^5 = 32
 + If you have been around computers for a while you’ll recognise this sequence: 2, 4, 8, 16, 32, 64, 128, 256, 512,1024, 2048, etc.
-  
+
 **Textures Of Different Sizes.**  
 
 + Need their own UV Map.
 + Probably not exportable due to multiple UV maps.
 + Best to stick to one texture size for any given unwrap.
 + Larger textures require more memory.
-  
+
 **What Size Textures**  
 
 + How far away is the camera from the object/texture?
