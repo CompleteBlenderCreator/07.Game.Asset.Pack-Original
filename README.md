@@ -1,4 +1,4 @@
-### Section 7 Introduction ###
+### 1 Section 7 Introduction
 
 + You are going to make several models.
 + We’ll be making both high poly and low poly versions of these assets.
@@ -7,7 +7,7 @@
 + We’ll be constantly checking our model externally
 + This will be focused mainly on an interior environment.
 
-### Section Specification ###
+### 4 Section Specification
 
 + Create assets to be exported straight into an external program, like a game engine.
 + Creating our own textures, and other maps from high detail models and apply them to a low poly version.
@@ -18,11 +18,11 @@
 + I will be keeping my scene simple, primarily for teaching purposes!
 + I encourage you to add more detail, experiment and have fun. Wouldn’t the scene look much more interesting with a chess set in it…
 
-### Planning Your Project ###
+### 5 Planning Your Project
 
 
 
-### Version Control 2 ###
+### 6 Version Control 2
 
 **An Overview of Source Control**
 
@@ -49,7 +49,7 @@
 + Mac and PC but Mac version is a little ahead
 + Good when learning as easy to visualise.
 
-### File Structure & Naming ###
+### 7 File Structure & Naming
 
 + Understand that there is NO one way of setting up your filing system.
 + Have a personal style of filing, if you don’t like mine, use yours.
@@ -72,7 +72,7 @@
 + Organise it as you go, not afterwards!
 + Use description names, cube, cube.001 etc is not helpful to anyone!
 
-### Level Of Detail (LOD) ###
+### 8 Level Of Detail (LOD)
 
 + Focus on representations of the right size and shape, but JUST Block work models.
 + This allows quick iteration of your models.
@@ -108,7 +108,7 @@ A - B - C - D
 
 Time includes other artwork too
 
-### 9_GA_CBC Building Blocks
+### 9 Building Blocks
 
 **Simple Shapes**  
 
@@ -129,7 +129,7 @@ Time includes other artwork too
 + You can type formulae into Blender’s fields.
 + We can use this to solve otherwise complicated measurements.
 
-### Setting Up Our Repo & Committing ###
+### 10 Setting Up Our Repo & Committing
 
 + Setup Up Our Repository.
 + Register SourceTree.
@@ -154,18 +154,18 @@ Time includes other artwork too
 + You’ll need to save all the documents that constitute that commit first.
 + Just like saving your working folder and zipping it up at that moment in time.
 
-### Repetitive Tasks In Blender ###
+### 11 Repetitive Tasks In Blender
 
 + Learn how to manage repetitive tasks.
 + Understand good uses for appending an Blend file into your scene.
 
-### Using Our Building Blocks ###
+### 12 Using Our Building Blocks
 
 + Set your commit message before working
 + Start building your building.
 + Notice a few issues and work out a way around them.
 
-### Introduction To Datablocks ###
+### 13 Introduction To Datablocks
 
 + Learn about Datablocks.
 + Understand that knowing about them is about to become much more important.
@@ -186,14 +186,14 @@ Time includes other artwork too
 + The same particle system and so on.
 + We will often share and then make the data block unique.
 
-### Linking To An External Datablock ###
+### 14 Linking To An External Datablock
 
 + Learn more about linking to another blend file.
 + Link an object datablock.
 + Understand that there is a datablock hierarchy.
 + Keep an eye out for when you might loose data.
 
-### Linking Blend Files- Making a Proxy ###
+### 15 Linking Blend Files- Making a Proxy
 
 + Learn more about linking datablocks.
 + Understand what is happening when you link.
@@ -207,7 +207,7 @@ Time includes other artwork too
 + Otherwise exactly the same as the linked file.
 + The object datablock is linked to original and any dependant datablocks.
 
-### Linking Blend Files: Making Local ###
+### 16 Linking Blend Files: Making Local
 
 + Learn why you want to make a linked datablock local.
 + Understand we are starting to sever links by doing this.
@@ -249,7 +249,7 @@ Time includes other artwork too
 
 + All: As it sounds, this is pretty much the same as appending the object into the scene. It is now entirely local with no links to the original file.
 
-### Walking And Flying Around The Model ###
+### 17 Walking And Flying Around The Model
 
 + See how our scene looks and feels walking around it. Using the Fly / Walk Mode.
 + Show you how to see the scene in Unity.
@@ -261,14 +261,14 @@ Time includes other artwork too
 + Better understanding of external programs.
 + Join in, if you have Unity installed and are interested in learning more about this prototyping method.
 
-### Better Camera Control ###
+### 18 Better Camera Control
 
 + Use a different way of moving the camera.
 + See this gives you better control over what the camera is pointing at.
 + Combine with fly mode for good control.
 + Learn how to track a target.
 
-### What Can You Export? ###
+### 19 What Can You Export?
 
 + Understand what will export
 + Realise some elements of your models will not export or will once, or not properly.
@@ -288,7 +288,7 @@ Time includes other artwork too
 + Particle systems are local to Blender.
 + Test
 
-### Re-linking Blend Files ###
+### 20 Re-linking Blend Files
 
 **Re-linking Blend Files**
 
@@ -313,7 +313,7 @@ Time includes other artwork too
 + Make links to the new object, replacing the old.
 + Delete / Archive Old Blend file.
 
-### Profile Modelling By Extrusion ###
+### 21 Profile Modelling By Extrusion
 
 + Understand what a “profile modelling” is.
 + Potentially speed up modelling by mirroring.
@@ -332,20 +332,20 @@ Time includes other artwork too
 + We’re going to be using the bevel tool for construction and defining sharp edges.
 + A subsurface modifier for making the surface.
 
-### Profile Modelling Using Curves ###
+### 22 Profile Modelling Using Curves
 
 + Create some alternative detail.
 + Convert Mesh objects into a Curve objects.
 + Use those 2 curves to create geometry, one controlling the profile, the other a path.
 + See this is great for more accurate path following.
 
-### Profile Modelling Using Mesh Objects ###
+### 23 Profile Modelling Using Mesh Objects
 
 + Use the Array modifier to repeat a mesh object the length of a curve.
 + Deform the array using the same curve data.
 + End up with some pretty awesome results!
 
-### Light Portals ###
+### 24 Light Portals
 
 + Learn how to use light portals.
 + Understand the limitations of their use.
@@ -379,12 +379,12 @@ Time includes other artwork too
 + Portals only work with Environmental light. Using them otherwise can reduce image quality.
 + Have little impact if you put something in the way!
 
-### Using Source Control- Resetting ###
+### 25 Using Source Control- Resetting
 
 + Go over how to extract a previous version of your files.
 + Become aware that Blender files that are made up of linked files need to be accessed and restored a different way.
 
-### Introduction To UV Unwrapping ###
+### 26 Introduction To UV Unwrapping
 
 + No longer ask what does UV stand for?!
 + Overview the mapping in upcoming lectures
@@ -393,7 +393,7 @@ Time includes other artwork too
 + UV are like the ‘X’ and ‘Y’ co-ordinates of an image.
 + UV mapping is the process of projecting a 2D image to a 3D model's surface.
 
-### Smart UV Project ###
+### 27 Smart UV Project
 
 + Understand more about unwrapping.
 + Be able to unwrap more complex models
@@ -410,34 +410,34 @@ Time includes other artwork too
 + Essential when using textures within Blender.
 + Necessary if you want control over how something looks.
 
-### How Is It Coming Together? ###
+### 28 How Is It Coming Together?
 
 
 
-### Adding More Detail ###
+### 29 Adding More Detail
 
 + Do some organisation to our outliner before things get out of hand!
 + Get an “LOD_B” Mesh Object Ready to be Linked into our main scene.
 
-### Problem Solving ###
+### 30 Problem Solving
 
 + Realise starting again is sometimes the best option.
 + See that even well prepared scenes can be broken by subtle changes.
 + Get help with problems you may have run into when making your building.
 
-### UV Manipulation ###
+### 31 UV Manipulation
 
 + Realise sometimes Smart UV project is 99% of the way there but something is not quiet right.
 + Use UV/Image Editor to change individual parts on your mapping.
 
-### Complex Shapes & UV Mapping ###
+### 32 Complex Shapes & UV Mapping
 
 + Have a quick tour around my Church Vault.
 + See the challenges that we can have with more complex Models.
 + Troubleshoot some common unwrapping issues.
 + Work out ways to make an unwrap easier and quicker.
 
-### Introduction To Marking Seams ###
+### 33 Introduction To Marking Seams
 
 + Realise that UV unwraps will have seams in them.
 + Learn how to mark seams where you want them.
@@ -456,14 +456,14 @@ Time includes other artwork too
 + They are made where you are least likely to see them.
 + Understand that this gives us the most control over our model.
 
-### Painting In The Image Editor ###
+### 34 Painting In The Image Editor
 
 + Create your own Image using Blender.
 + Become more familiar with the image editor.
 + Realise Blender’s limitations when it comes to image editing.
 + Understand you may have to use external packages for better control.
 
-### Diffuse Maps ###
+### 35 Diffuse Maps
 
 **The Diffuse Map**
 
@@ -483,7 +483,7 @@ Time includes other artwork too
 + We are going to avoid painting shadows too.
 + If done, this is called ‘baking’ into the image.
 
-### Using Images For Control ###
+### 36 Using Images For Control
 
 + Learn how to use images to control your materials.
 + Understand why these control images are black and white.
@@ -495,7 +495,7 @@ Time includes other artwork too
 + Black represents a value of 0 and white a value of 1.
 + You map them to your model like you would any other image.
 
-### Illusion of Detail- Using Bump Maps ###
+### 37 Illusion of Detail- Using Bump Maps
 
 + Use a texture to control how light interacts with a surface.
 + See how to use a texture as a bump map in Blender Render.
@@ -509,7 +509,7 @@ Time includes other artwork too
 + This gives the illusion of detail on a surface.
 + Can increase render speeds vs geometry.
 
-### Using Displacement Maps ###
+### 38 Using Displacement Maps
 
 + Create real detail using a texture.
 + Use a displacement map to alter geometry.
@@ -524,30 +524,30 @@ Time includes other artwork too
 + Great for generating geometry and then optimising
 + For larger items, like terrain.
 
-### Normal Maps ###
+### 39 Normal Maps
 
 + Understand they are a type of bump map.
 + Gain a greater understanding of how normals work.
 + They contain direction information _not_ height information.
 + There are 4 Main Types
 
-### Baking A Normal Map In Blender ###
+### 40 Baking A Normal Map In Blender
 
 + Create a normal map.
 + Understand when to create a normal map.
 + Use a process called baking.
 + See the baking is the fundamental process for creating other map types too in Blender.
 + Understand about cages and why they are used.
++ (Updated 15/09/2017) 
 
-### Applying A Normal Map In Blender ###
+### 41 Applying A Normal Map In Blender
 
-
-
-### 42_GAP_CBC Texture Resolution (Fixed 12/06/2017)
+### 42 Texture Resolution 
 
 + Understand that resolution will control the level of detail at a particular distance.
 + Realise when a texture is too large or too small.
 + Learn about the power of two (POT) and why and when it is important.
++ (Updated 12/06/2017)
 
 **Power Of Two**
 
@@ -575,41 +575,37 @@ Time includes other artwork too
 + What’s the “Retina” Texture level?
 + rTexture = 3266 * Tan(Size/Distance)
 
-### The Multi-Resolution Modifier ###
+### 43 The Multi-Resolution Modifier
 
 + Learn how to use the multi resolution modifier.
 + See it is similar to the subsurf. modifier and great for multiple resolutions of a single model.
 + Learn to control how sharp edges.
 + Understand that this is best applied to a base mesh that is close to the ‘final’ low-poly version.
 
-### Baking Using The Multires Modifier ###
+### 44 Baking Using The Multires Modifier
 
 + Learn how bake detail from the higher multires to a lower one.
 + Very similar to before, but this time only one model.
 
-### Copying Mesh Properties ###
+### 45 Copying Mesh Properties
 
 + Learn how to copy attributes of a mesh object.
 + See this is great when you have lots of components, for e.g. need the same material.
 + Understand it’s a destructive operation e.g. copying materials will overwrite a meshes current materials
 
-### Optimising A UV Map ###
+### 46 Optimising A UV Map
 
 + Making your UV map more uniform, minimising distortion and optimising image use.
 + Understand the use of margins
 + Learn more about seams and their placement.
 
-### Texture Painting In The ViewPort ###
+### 47 Texture Painting In The ViewPort
 
 + Create a hand painted texture directly onto your model
 + Be creating a diffuse map from scratch
 
-### Realistic Lighting Or Fake It? ###
+### 48 Realistic Lighting Or Fake It?
 
+### 49 Creating a New Scene In Blender
 
-
-### Creating a New Scene In Blender ###
-
-
-
-### Section 7 Wrap Up ###
+### 50 Section 7 Wrap Up
