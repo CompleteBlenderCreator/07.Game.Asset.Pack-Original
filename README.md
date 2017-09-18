@@ -429,6 +429,7 @@ Time includes other artwork too
 
 + Realise sometimes Smart UV project is 99% of the way there but something is not quiet right.
 + Use UV/Image Editor to change individual parts on your mapping.
++ (Updated 18/09/2017)
 
 ### 32 Complex Shapes & UV Mapping
 
