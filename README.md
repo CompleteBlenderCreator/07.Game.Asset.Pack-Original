@@ -33,21 +33,9 @@
 + Reset = roll-back to a previous state
 + Branch, Push and Large File Support later.
 
-**Popular Version Control Systems**
+A Look At Git Kracken
 
-+ Git
-+ Mercurial
-+ Perforce
-+ Subversion / TortoiseSVN
-+ Alienbrain (for art but of order $10,000)
-+ [Comparison of Version Control Software - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Comparison_of_version_control_software)
-
-**About SourceTree**  
-
-+ Free software by Atlassian
-+ Visual front-end for Git or Mercurial
-+ Mac and PC but Mac version is a little ahead
-+ Good when learning as easy to visualise.
+(New Video 11/2/2018)
 
 ### 7 File Structure & Naming
 
@@ -539,11 +527,11 @@ Time includes other artwork too
 + Use a process called baking.
 + See the baking is the fundamental process for creating other map types too in Blender.
 + Understand about cages and why they are used.
-+ (Updated 15/09/2017) 
++ (Updated 15/09/2017)
 
 ### 41 Applying A Normal Map In Blender
 
-### 42 Texture Resolution 
+### 42 Texture Resolution
 
 + Understand that resolution will control the level of detail at a particular distance.
 + Realise when a texture is too large or too small.
