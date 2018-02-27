@@ -322,6 +322,8 @@ Time includes other artwork too
 + We’re going to be using the bevel tool for construction and defining sharp edges.
 + A subsurface modifier for making the surface.
 
+(Updated 27/02/2017)
+
 ### 22 Profile Modelling Using Curves
 
 + Create some alternative detail.
@@ -334,6 +336,8 @@ Time includes other artwork too
 + Use the Array modifier to repeat a mesh object the length of a curve.
 + Deform the array using the same curve data.
 + End up with some pretty awesome results!
+
+(Updated 27/02/2017)
 
 ### 24 Light Portals
 
