@@ -117,6 +117,8 @@ Time includes other artwork too
 + You can type formulae into Blender’s fields.
 + We can use this to solve otherwise complicated measurements.
 
+(Updated 12/02/2018)
+
 ### 10 Setting Up Our Repo & Committing
 
 + Setup Up Our Repository.
