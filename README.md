@@ -149,6 +149,8 @@ Time includes other artwork too
 + Learn how to manage repetitive tasks.
 + Understand good uses for appending an Blend file into your scene.
 
+(Updated 28/3/2018)
+
 ### 12 Using Our Building Blocks
 
 + Set your commit message before working
